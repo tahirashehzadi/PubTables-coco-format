@@ -20,3 +20,7 @@
     python voc2coco.py --ann_dir val --ann_ids val.txt --labels labels.txt --output annotations/val.json --ext xml
     python voc2coco.py --ann_dir val --ann_ids test.txt --labels labels.txt --output annotations/test.json --ext xml
  
+ 
+ 
+ Dataset can be downloaded from here:
+ [PuBTables_Dataset](https://msropendata.com/datasets/505fcbe3-1383-42b1-913a-f651b8b712d3)
