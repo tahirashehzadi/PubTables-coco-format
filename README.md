@@ -1,5 +1,5 @@
-# PubTables-coco-formatData Preparation
-
+# PubTables-coco-format
+Data Preparation
    Download the pubtables dataset. Use the following commands to convert PubTables data from xml to coco format
    YOUR_DATA should be in the following shape 
    
