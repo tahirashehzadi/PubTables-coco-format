@@ -1,7 +1,7 @@
 # PubTables-coco-formatData Preparation
 
-    Download the pubtables dataset
-    YOUR_DATA should be in the following shape 
+ Download the pubtables dataset
+ YOUR_DATA should be in the following shape 
     For eg.:
     YOUR_DATA_FOLDER/
        test.txt
