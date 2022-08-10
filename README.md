@@ -11,7 +11,7 @@
        val/
        test/
        annotations/
-   You the following commands to convert PubTables data from xml to coco format
+
     python clean-up.py                  for train, test and val files
     python voc2coco.py --ann_dir val --ann_ids train.txt --labels labels.txt --output annotations/train.json --ext xml
     python voc2coco.py --ann_dir val --ann_ids val.txt --labels labels.txt --output annotations/val.json --ext xml
