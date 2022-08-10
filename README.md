@@ -2,7 +2,7 @@
 Data Preparation:
    1. Download the pubtables dataset. 
    2. Use the following commands to convert PubTables data from xml to coco format
-   YOUR_DATA should be in the following shape 
+  YOUR_DATA should be in the following shape 
    
    
    
