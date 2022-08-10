@@ -2,6 +2,9 @@
 
    Download the pubtables dataset. Use the following commands to convert PubTables data from xml to coco format
    YOUR_DATA should be in the following shape 
+   
+   
+   
     For eg.:
     YOUR_DATA_FOLDER/
        test.txt
