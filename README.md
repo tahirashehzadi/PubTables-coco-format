@@ -9,7 +9,7 @@
        test.txt
        train/
        val/
-       test/
+       test/ 
        annotations/
     python clean-up.py                  #for train, test and val files
     python voc2coco.py --ann_dir val --ann_ids train.txt --labels labels.txt --output annotations/train.json --ext xml
